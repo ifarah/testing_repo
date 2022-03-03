@@ -1,37 +1,6 @@
 ## Welcome class of CP255!!
 
-You can use the [editor on GitHub](https://github.com/ifarah/testing_repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Embedding a tweet:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Travel grant applications are closing in one week! <br>The UF Center for Latin American Studies is sponsoring Library Travel Research Grants for Spring &amp; Summer 2022 for non-UF scholars to visit the Latin American &amp; Caribbean Collection. Apply today!<a href="https://t.co/RyBvT7bF0z">https://t.co/RyBvT7bF0z</a> <a href="https://t.co/7vARbHE9OG">pic.twitter.com/7vARbHE9OG</a></p>&mdash; UF Latin American and Caribbean Collection (@uflacc) <a href="https://twitter.com/uflacc/status/1499495617646587915?ref_src=twsrc%5Etfw">March 3, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ifarah/testing_repo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
